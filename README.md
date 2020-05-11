@@ -8,7 +8,7 @@ Diamond Kaggle competition was a weekend class competition in wich we should pre
 
 ***
 
-I developed a first models research from the regressions model I though with the characteristics of my problem it would be the best ones. I reached the followings puntuations(RSME):
+I developed a first models research from the regressions model I though would be the best ones according to the problem. I reached the followings puntuations(RSME):
 
 <p align="center">
   <img width="452" height="165" src=INPUT/models.png?raw=true "Title">
@@ -21,7 +21,7 @@ After all the models were trained my two winners were:
 💎 RANOMD FOREST REGRESSION (n_estimators=250)
 
 
-💎 GRADIENT BOOSTING REGRESSOR (hipertunned)
+💎 GRADIENT BOOSTING REGRESSOR (hypertunned)
 
 
 
