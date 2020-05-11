@@ -18,7 +18,7 @@ From the results above, I decided to use some of that models to tunning the hype
 
 After all the models were trained my two winners were:
 
-💎 RANOMD FOREST REGRESSION (n_estimators=250)
+💎 RANDOM FOREST REGRESSION (n_estimators=250)
 
 
 💎 GRADIENT BOOSTING REGRESSOR (hypertunned)
